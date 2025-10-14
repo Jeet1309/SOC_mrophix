@@ -112,5 +112,3 @@ pip install -r requirements.txt
 ---
 
 
-Do you want me to do that version too?
-```
