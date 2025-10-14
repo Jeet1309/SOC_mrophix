@@ -17,7 +17,7 @@ It combines **interactive web applications** using **Streamlit** with **Jupyter 
 
 ## 📁 Repository Structure
 
-
+```
 SOC_mrophix/
 ├── interfacegan/                 # Streamlit web application
 │   └── app.py                    # Main Streamlit app
@@ -29,7 +29,7 @@ SOC_mrophix/
 ├── requirements.txt              # Python dependencies
 └── README.md                     # Project documentation
 
-
+```
 
 ---
 
